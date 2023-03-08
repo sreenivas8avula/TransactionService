@@ -23,7 +23,7 @@ import com.sree.banking.transaction.service.TransactionServiceImpl;
 
 @RestController
 @RequestMapping("/transaction-service/v1")
-public class TransactionnController {
+public class TransactionController {
 	
 	
 	@Autowired
